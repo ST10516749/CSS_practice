@@ -14,7 +14,7 @@ div {
 }
 
 .box1 {
-    background-color: rgb(233, 106, 174);
+    background-color: rgb(228, 146, 190);
     height: 400px;
     float: left;
 }
@@ -37,5 +37,11 @@ h3 {
     font-size:larger;
     font-style: italic;
     font-weight: 100;
+    color: darkslategray;
+    border-bottom: solid thin black;
 }
 
+p {
+    font-size: 16px;
+    line-height: 100%;
+}
