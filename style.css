@@ -7,6 +7,7 @@ div {
     height: 150px;
     background-color: rgb(118, 127, 203);
     border: solid medium black;
+    box-shadow: 5px 5px 5px grey;
     border-radius: 35px;
     padding: 25px;
     margin: 15px;
@@ -30,3 +31,11 @@ div {
     margin-right: auto;
 
 }
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:larger;
+    font-style: italic;
+    font-weight: 100;
+}
+
