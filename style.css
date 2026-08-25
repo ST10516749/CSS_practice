@@ -32,6 +32,10 @@ div {
 
 }
 
+.box1:hover, .box2:hover, .box3:hover {
+    color: aquamarine;
+}
+
 h3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:larger;
